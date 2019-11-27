@@ -55,6 +55,7 @@ Using the provided manifest, the application will be created without an external
 
 Depending on the Cloud Foundry service provider, persistence services might be offered and managed by the platform. These steps can be used to create and bind a service that is managed by the platform:
 
+
 ~~~
 # view the services available
 $ cf marketplace
